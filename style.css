@@ -62,7 +62,7 @@ html,body {
     font-size: 1.5rem;
     width: 90%;
     max-width: 400px;
-    background-color: rgb(199, 118, 220);
+    background-color: rgb(73, 73, 73);
     border: none;
     border-radius: 10px;
     font-size: 1.5rem;
@@ -73,7 +73,7 @@ html,body {
 .input-btn-section button {
     width: 90%;
     max-width: 150px;
-    background-color: palevioletred;
+    background-color: grey;
     border: none;
     border-radius: 10px;
     font-size: 1.5rem;
